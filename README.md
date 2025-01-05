@@ -1,4 +1,4 @@
-![Header](./github-header-image(1).png)
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Shiva Kumar</h1>
 <h3 align="center">A passionate AI/ML Engineer & Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://gdi-nyc.github.io/intro-to-git-and-github/images/git-daft-punk-2.gif">
