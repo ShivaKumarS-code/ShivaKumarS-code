@@ -1,6 +1,6 @@
 ![Header](./header.png)
 <h1 align="center">Hi there👋</h1>
-<h3 align="center">I'm a passionate about AI/ML & A Web Developer</h3>
+<h3 align="center">I'm passionate about AI/ML & A Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://gdi-nyc.github.io/intro-to-git-and-github/images/git-daft-punk-2.gif">
 
 - 🌱 I’m currently learning **Deep Learning**
