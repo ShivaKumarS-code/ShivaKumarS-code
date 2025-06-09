@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Shiva Kumar</h1>
-<p>A Java backend developer with a strong interest in AI/ML and system design.</p>
+<h1>Hi 👋, I'm Shiva</h1>
+<p>A Java developer with a strong interest in AI/ML and system design.</p>
 <p>🚀 Currently working on projects involving Java, Spring Boot, and ML integrations.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
